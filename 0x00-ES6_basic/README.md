@@ -10,13 +10,13 @@
 <br />
 [Javascript ES6 — Iterables and Iterators](https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4)
 
-Install Jest using: `npm install --save-dev jest`
+Install Jest using: ``npm install --save-dev jest``
 <br />
-Install Babel using: `npm install --save-dev babel-jest @babel/core @babel/preset-env @babel/cli`
+Install Babel using: ```npm install --save-dev babel-jest @babel/core @babel/preset-env @babel/cli```
 <br />
-Install ESLint using: `npm install --save-dev eslint`
+Install ESLint using: ```npm install --save-dev eslint```
 <br />
-Test Code using: `npm run dev filename` where `filename` is the script to run
+Test Code using: ```npm run dev filename``` where `filename` is the script to run
 
 ## Tasks To Complete
 
