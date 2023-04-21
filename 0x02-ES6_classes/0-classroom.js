@@ -9,6 +9,6 @@ export default class ClassRoom {
 	 * of students that can be enrolled in the classroom.
 	 */
 	constructor(maxStudentsSize) {
-		this._maxStudentsSize;
+		this._maxStudentsSize = maxStudentsSize;
 	}
 }
