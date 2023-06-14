@@ -3,7 +3,7 @@
  * @param {String} msg The message to display.
  * @author Stanley Osagie <https://github.com/sagieramos>
  */
-const displayMessage = (msg) => {
+function displayMessage(msg) {
   console.log(msg);
 };
 
